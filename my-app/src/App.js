@@ -1,12 +1,11 @@
 import './App.css';
-//import StatefulGreeting from './components/StatefulGreeting';
-//import StatefulGreetingWithCallback from './components/StatefulGreetingWithCallback';
-import StatefulGreetingWithPrevState from './components/StatefulGreetingWithCallback';
+import EventBinding from './components/EventBinding';
 
 function App() {
   return (
     <div className="App">
-      <StatefulGreetingWithPrevState/>
+      <EventBinding/>
+
 
     </div>
   );

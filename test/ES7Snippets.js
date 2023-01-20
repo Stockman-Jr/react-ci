@@ -1,4 +1,4 @@
-// v created by rfce
+// v created by rfce > without arrow function
 
 //import React from 'react'
 
@@ -10,7 +10,7 @@
 
 //export default ES7Snippets
 
-// v created by rafce
+// v created by rafce > functional arrow componenet
 
 //import React from 'react'
 
