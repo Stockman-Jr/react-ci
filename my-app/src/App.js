@@ -1,12 +1,12 @@
 import './App.css';
-import ControlledForm from './components/ControlledForm';
+import SearchBar1 from './components/SearchBar1';
 
 
 
 function App() {
   return (
     <div className="App">
-      <ControlledForm />
+      <SearchBar1 />
 
     </div>
   );
