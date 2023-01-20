@@ -22,7 +22,7 @@
 
 //export default ES7Snippets
 
-// v created by rce
+// v created by rce > class
 
 //import React, { Component } from 'react'
 
